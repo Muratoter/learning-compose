@@ -20,7 +20,8 @@ class MainActivity : ComponentActivity() {
                 ) {
 //                    TextBoxLayout()
 //                    AbsoluteSize()
-                    TextComponent()
+//                    TextComponent()
+                    TestImage()
                 }
             }
         }
