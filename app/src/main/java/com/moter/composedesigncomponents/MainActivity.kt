@@ -19,7 +19,8 @@ class MainActivity : ComponentActivity() {
                     color = MaterialTheme.colorScheme.background
                 ) {
 //                    TextBoxLayout()
-                    AbsoluteSize()
+//                    AbsoluteSize()
+                    TextComponent()
                 }
             }
         }
